@@ -1,2 +1,3 @@
 # ThistleHallShelves
-Adjustable shelves for the gallery users to use
+This is a shelf that I made for the Thistle Hall, based on a project on Obrary, where it’s for a much larger garage wall and is done in American Standard/Imperial measurements. I took the concept and made a metric small version that we could cut on our laser cutter. Using 12mm poplar plywood (we have a 105W with a 1200 x 600mm bed) I created a large-ish shelving system for things that aren’t huge, like coats & jackets, paints, brushes, tape, extension cords etc. The accessories are still in a test phase - add/modify as you wish. I’m modifying as I go. I said I’d do the design work for Thistle Hall, as it’s a community venue that we work with a lot, as long as they were happy to have it be open for all to enjoy. They were!
+Please, enjoy!!! And turn off the text in the layers - everything is locked at the moment and one layer is invisible.
